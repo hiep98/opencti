@@ -87,7 +87,7 @@
     "ramda": "0.28.0",
     "redlock": "4.2.0",
     "sanitize-filename": "1.6.3",
-    "semver": "7.3.5",
+    "semver": "7.5.2",
     "set-interval-async": "2.0.3",
     "showdown": "1.9.1",
     "source-map-support": "0.5.21",
